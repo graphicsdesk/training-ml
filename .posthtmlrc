@@ -7,12 +7,34 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Leadin. Something to draw the reader in. Graphics is the only visuals and words desk at the Spectator."
+          },
+          {
+            "type": "text",
+            "value": "Nutgraf. What is the meat of the story? Why does this matter?"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "lithum.html"
+            }
+          }
+        ],
+        "headline": "Training 2025",
+        "dek": "After the city submitted a land use application on Feb. 13, avoiding the public’s input, community members urged the City Council to remove it—and they did.",
+        "date": "April 2, 2025",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/tsehai-alfred/\">Tsehai Alfred</a>",
+        "byline2": "Graphic by <a href=\"https://www.columbiaspectator.com/contributors/madeline-lee/\">Madeline Lee</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/IYEZ3SBQ4FFRLM2K4J3EQAK3GQ.jpg",
+        "cover_caption": "Judy Goldstein / Senior Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1LbhWaDHklSy5AN4_cDplO1xG2o5rV2v5X7ysLI_0Qhs/edit?usp=sharing"
       }
     }
   }
